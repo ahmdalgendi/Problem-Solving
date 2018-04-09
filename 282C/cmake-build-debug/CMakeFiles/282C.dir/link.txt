@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/282C.dir/main.cpp.o  -o 282C 

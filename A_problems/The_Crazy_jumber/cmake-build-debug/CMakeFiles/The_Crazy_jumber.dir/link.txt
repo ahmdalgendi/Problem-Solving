@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/The_Crazy_jumber.dir/main.cpp.o  -o The_Crazy_jumber 

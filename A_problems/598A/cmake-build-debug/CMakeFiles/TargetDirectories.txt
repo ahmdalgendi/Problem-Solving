@@ -1,0 +1,3 @@
+/home/ahmdalgendi/ACM is the dream/A_problems/598A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmdalgendi/ACM is the dream/A_problems/598A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmdalgendi/ACM is the dream/A_problems/598A/cmake-build-debug/CMakeFiles/598A.dir

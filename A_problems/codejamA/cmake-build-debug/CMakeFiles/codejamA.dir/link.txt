@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/codejamA.dir/main.cpp.o  -o codejamA 

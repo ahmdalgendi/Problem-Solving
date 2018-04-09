@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/570B.dir/main.cpp.o  -o 570B 

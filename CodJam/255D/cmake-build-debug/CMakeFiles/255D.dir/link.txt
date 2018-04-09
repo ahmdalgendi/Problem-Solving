@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/255D.dir/main.cpp.o  -o 255D 

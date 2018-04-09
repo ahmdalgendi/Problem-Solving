@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/805A.dir/main.cpp.o  -o 805A 

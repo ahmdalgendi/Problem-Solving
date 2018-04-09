@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/602B.dir/main.cpp.o  -o 602B 

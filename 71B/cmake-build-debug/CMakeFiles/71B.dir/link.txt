@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/71B.dir/main.cpp.o  -o 71B 

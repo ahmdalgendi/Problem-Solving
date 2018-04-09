@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/785A.dir/main.cpp.o  -o 785A 
